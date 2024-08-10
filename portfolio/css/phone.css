@@ -1,0 +1,119 @@
+@media (max-width: 768px) {
+    .img{
+
+        display: flex;
+        flex-direction: column;
+    }
+    .img1{
+        width: 900px;
+        height: 600px;
+        margin-left: 100px;
+
+    }
+    .nif1{
+        text-align: justify;
+    }
+
+    .intro{
+
+        width:800px ;
+        height: 300px;
+        margin-bottom:50px ;
+        margin-left: 200px;
+        text-align: justify;
+    }
+
+    .q1{
+
+        width: 300px;
+        margin-top: 30px;
+        margin-left: 0px;
+    }
+    .qualification{
+        align-items: center;
+        margin-left: 430px;
+        margin-bottom: 30px;
+    
+    }
+    .imageedu{
+
+        margin-left:350px ;
+    }
+    .imageedu1{
+
+        margin-left:350px ;
+    }
+    .skill-list{
+         margin-left: 130px;
+    }
+    .skill1{
+        margin-left: 130px;
+    }
+    .project{
+        display: flex;
+        flex-direction: column;
+        background-color:transparent;
+
+    }
+    .view1{
+        width:800px;
+        height: 500px;
+        
+    }
+    .view2{
+
+        width: 800px;
+        height: 400px;
+    }
+    form{
+         margin-left: 200px;
+         
+         
+    }
+    .form1{
+        width: 800px;
+    }
+    textarea{
+        width: 800px;
+    }
+    .form-button{
+        width: 230px;
+        margin-left:270px ;
+    }
+    .copyright{
+        margin-left: 750px;
+        width: 250px;
+
+    }
+    footer ol li{
+        margin-left: 50px;
+    }
+
+    
+    footer{
+       height: 300px;
+       width: 1150px;
+    
+        
+    }
+
+    ul{
+        padding-left: 300px;
+    }
+    
+    
+}
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
