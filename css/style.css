@@ -57,7 +57,7 @@ ul{
     padding: 0; 
     margin: 0; 
     display: flex; 
-    padding-left: 650px;
+    padding-left: 580px;
    
     
     
@@ -263,7 +263,8 @@ skill2:hover{
     padding: 10px;
     margin-top: 30px;
     border-radius: 2px;
-    background-color: rgb(5, 13, 61);
+    background-color:  rgb(5, 13, 61);
+   
     
 }
 .view2:hover{
@@ -271,23 +272,31 @@ skill2:hover{
     transform: translateY(-10px);
 }
 .view1{
-    margin-left: 80px;
-    width: 300px;
-    height: 350px;
+    margin-left: 15px;
+    width: 320px;
+    height: 450px;
     margin-bottom: 130px;
+    border-radius: 8px;
+    background-color:  rgb(5, 13, 61);
+    padding: 10px;
+   
+   
+
+   
     
 
 }
 
 .view1 p{
     color: azure;
-    margin: 20px;
+    margin: 15px;
     text-align: justify;
+    background-color:  rgb(5, 13, 61);
     
     
 }
 .project{
-    background-color: rgb(8, 14, 49);
+    
     display: flex;
     flex-direction: row;
     margin-left: 150px;
@@ -332,6 +341,11 @@ textarea{
     font-size: 20px;
     margin-bottom: 70px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.FOOTER-DIV{
+
+    width: 100%;
 }
 
 footer{
