@@ -158,13 +158,21 @@ padding-bottom: 0;
 }
 
     
-@media (min-width: 601px) and (max-width: 1024px) {
+@media (min-width: 601px) and (max-width: 1225px) {
 
     .nav ul li{
         padding-left: 0px;
 
 
     }
+    .project{
+        display: flex;
+        flex-direction: column;
+    
+    }
+    
+    
+    
  
     .nav{
 
@@ -176,7 +184,7 @@ padding-bottom: 0;
     }
 
     ul{
-        padding-left: 450px;
+        padding-left: 150px;
     }
 
     .qualification{
@@ -187,9 +195,13 @@ padding-bottom: 0;
     .imageedu{
         margin-right: 20px;
     }
-    
+    .copyright{
+
+        margin-left: 0;
+    }
     .view1{
-        margin-left: 6px;
+        margin-left: 150px;
+        margin-bottom: 6px;
 
     }
     
@@ -225,6 +237,11 @@ padding-bottom: 0;
     .imageedu1{
         margin-left:420px ;
 
+    }
+    .img1{
+
+        width: 300px;
+        height: 200px;
     }
     
     .image-container{
