@@ -115,40 +115,10 @@
         width: 230px;
         margin-left:70px ;
     }
-    .copyright{
-        
-        text-align: center;
-        width: 300px;
-        margin-left: 10px;
-        font-size: 15px;
-
-    }
-    footer ol  {
-        margin-left: 40;
-        display: flex;
-flex-direction: column;
-padding-bottom: 0;
 
 
-        
-    }
-    footer p{
-        font-size: 32px;
-        margin-left: 10px;
-        color:  rgb(28, 117, 196);
-    }
-    footer ol li{
-        padding-bottom: 0;
-        padding-top: 0;
-    }
-    
-    footer{
-       height: 600px;
-       width: 550px;
-       
-    
-        
-    }
+
+
 
     ul{
         padding-left: 30px;
@@ -257,11 +227,50 @@ padding-bottom: 0;
     
     
 
-    .FOOTER-DIV{
 
 
-        width: 1200px;
-    }
+
+
+
+
+
+/* Responsive Design */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+   
+
+    
+    
 
   
 }
