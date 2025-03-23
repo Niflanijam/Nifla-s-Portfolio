@@ -28,9 +28,11 @@ cursor: pointer;
     text-decoration: none;
     list-style: none;
     
+    
     display: block; 
-    padding-left: 20px;
+    padding-left: 0px;
     font-size: larger;
+    margin-left: 20px;
     color: aliceblue;
     transition: opacity 0.5s ease;
     position: relative; 
