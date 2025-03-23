@@ -504,17 +504,46 @@ textarea{
 
 
 
+  .skill2 {
+    color: cyan;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 24px;
+    transition: 0.3s ease-in-out;
+    position: relative;
+  }
+  
+  .skill2:hover {
+    text-shadow: 0 0 10px cyan, 0 0 20px cyan, 0 0 40px cyan;
+  }
 
 
 
 
 
 
+  .skill-list ol li a{
+
+    color: cyan;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 24px;
+    transition: 0.3s ease-in-out;
+    position: relative;
 
 
 
+  }
 
 
+  .skill-list ol li a:hover{
+
+
+    text-shadow: 0 0 10px cyan, 0 0 20px cyan, 0 0 40px cyan;
+
+
+
+  }
 
 
 
