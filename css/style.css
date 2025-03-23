@@ -23,8 +23,15 @@ text-align: center;
 cursor: pointer;
 
  }
+
+ .skill i{
+
+  color: antiquewhite;
+  font-size: 33px;
+  
+ }
  h1{
-    color:  whitesmoke
+    color: whitesmoke;
  }
  li a{
     text-decoration: none;
