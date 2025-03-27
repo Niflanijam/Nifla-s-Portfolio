@@ -290,7 +290,10 @@ skill2:hover{
     margin-bottom: 130px;
     border-radius: 8px;
     background-color:  rgb(5, 13, 61);
-    padding: 10px;
+    padding-bottom: 20px;
+    padding-top: 10ps;
+    padding-left: 10px;
+    padding-right: 10px;
    
    
 
