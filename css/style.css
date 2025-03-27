@@ -471,7 +471,7 @@ textarea{
 
 
   .button-71 {
-    background-color: #0078d0;
+    background-color: #146dad;
     border: 0;
     border-radius: 56px;
     color: #fff;
@@ -553,7 +553,7 @@ textarea{
   .skill-list ol li a:hover{
 
 
-    text-shadow: 0 0 10px cyan, 0 0 20px cyan, 0 0 40px cyan;
+    text-shadow: 0 0 10px rgb(105, 111, 228), 0 0 20px cyan, 0 0 40px cyan;
 
 
 
